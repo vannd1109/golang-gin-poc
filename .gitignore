@@ -1,0 +1,16 @@
+# Bỏ qua các file và thư mục được tạo bởi IDE
+.vscode/
+.idea/
+
+# Bỏ qua các file biên dịch
+*.o
+bin/
+
+# Bỏ qua các file cache
+/go/pkg/
+
+# Bỏ qua các file log
+*.log
+
+# Bỏ qua các file test (nếu muốn)
+_test/
